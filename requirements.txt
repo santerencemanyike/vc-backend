@@ -1,0 +1,31 @@
+# Core
+torch==2.8.0
+numpy
+scipy
+
+# SMPL-X body model
+smplx
+# chumpy
+
+# Geometry & mesh handling
+trimesh
+pyrender
+pyglet
+networkx
+
+# Visualization & I/O
+matplotlib
+opencv-python
+imageio
+imageio-ffmpeg
+
+# Utils
+tqdm
+
+# Fastapi
+fastapi
+
+# Mongodb
+pymongo
+
+python-multipart-0.0.20
